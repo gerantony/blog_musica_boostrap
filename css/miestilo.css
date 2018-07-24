@@ -1,0 +1,15 @@
+.cabezera{
+  background: rgb(203, 246, 255);
+}
+.navega{
+  width: 100%;
+  background: #33005c;
+  border-radius: 0 0 9px 9px;
+}
+
+
+@media (max-width: 480px) {
+  .navega{
+    display: block;
+  }
+}
