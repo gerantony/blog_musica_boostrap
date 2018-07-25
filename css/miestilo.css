@@ -1,3 +1,6 @@
+.blog-body{
+  background-color: rgb(98, 41, 41);
+}
 .cabezera{
   background: rgb(203, 246, 255);
 }
@@ -6,8 +9,27 @@
   background: #33005c;
   border-radius: 0 0 9px 9px;
 }
+.redes-social{
+  margin-top: 70px;
+}
+.img-social:hover{
+  opacity: 0.7;
+}
+.central-cont{
+  margin-top: 10px;
+}
+.articulos{
+  height: 500px;
+  background: rgb(203, 203, 203);
+  border-radius: 9px 0 0 0;
+}
+.buscadores{
+  height: 500px;
+    background: #fcf9da;
+    border-radius: 0 9px 0 0;
+}
 
-
+/*CAMBIOS PARA CELULARES*/
 @media (max-width: 480px) {
   .navega{
     display: block;
