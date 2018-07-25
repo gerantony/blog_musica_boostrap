@@ -19,14 +19,27 @@
   margin-top: 10px;
 }
 .articulos{
-  height: 500px;
+  height: 100%;
+  width: 100%;
   background: rgb(203, 203, 203);
   border-radius: 9px 0 0 0;
 }
+
+.img-comentario .caja-comentario{
+  margin: 0;
+}
+.img-articulo{
+  width: 80%;
+}
+
 .buscadores{
-  height: 500px;
+    height: 100%;
     background: #fcf9da;
     border-radius: 0 9px 0 0;
+}
+.botonbuscar{
+  width: 95%;
+  margin: 5px 5px 5px 5px;
 }
 
 /*CAMBIOS PARA CELULARES*/
