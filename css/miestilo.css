@@ -46,6 +46,10 @@
   width: 100%;
 }
 
+.artistaslist a:hover{
+  background: #ffeef2;
+}
+
 /*CAMBIOS PARA CELULARES*/
 @media (max-width: 480px) {
   .navega{
