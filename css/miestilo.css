@@ -42,9 +42,17 @@
   margin: 5px 5px 5px 5px;
 }
 
+.artistaslist{
+  width: 100%;
+}
+
 /*CAMBIOS PARA CELULARES*/
 @media (max-width: 480px) {
   .navega{
     display: block;
+  }
+
+  .redes-social{
+    margin-top: 20px;
   }
 }
